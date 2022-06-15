@@ -1,0 +1,12 @@
+C:\Users\tauro\Desktop\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\bin\Debug\29-ConsesionariaDeAutosYMotos.exe
+C:\Users\tauro\Desktop\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\bin\Debug\29-ConsesionariaDeAutosYMotos.pdb
+C:\Users\tauro\Desktop\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.exe
+C:\Users\tauro\Desktop\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\bin\Debug\29-ConsesionariaDeAutosYMotos.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\bin\Debug\29-ConsesionariaDeAutosYMotos.pdb
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.csprojAssemblyReference.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.exe
+C:\Users\tauro\Downloads\Programacion Orientada a Objetos\29-ConsesionariaDeAutosYMotos\29-ConsesionariaDeAutosYMotos\obj\Debug\29-ConsesionariaDeAutosYMotos.pdb
